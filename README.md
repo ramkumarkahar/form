@@ -1,2 +1,2 @@
 # form
-a simple form using html css
+a simple form using html and css
