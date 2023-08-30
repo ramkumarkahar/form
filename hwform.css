@@ -1,0 +1,47 @@
+.top{
+    padding: 20px;
+    background-color: rgb(103, 247, 122);
+    width: 100%;
+}
+body{
+    background-color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+input[type="text"],
+input[type="email"]{
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    border: 1px black solid;
+}
+
+.msg{
+    text grid-area: height: 50px;
+}
+
+.send{
+    height: 50px;
+    width:100%;
+    text-align: center;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    
+}
+.al{
+    margin-top: 10px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom:auto;
+}
+
+button{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
